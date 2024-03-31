@@ -6,7 +6,6 @@
 
 ### Introduction to Image Processing and Analysis Course
 
-
 <br/>
 
 ##### Description: 
